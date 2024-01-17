@@ -1,15 +1,15 @@
 {
-  "name": "next-nprogress-bar",
+  "name": "@fractal-web/next-nprogress-bar",
   "version": "2.1.2",
   "description": "NextJS progress bar compatible with new app directory",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Skyleen77/next-nprogress-bar.git"
+    "url": "https://github.com/Fractal-Web/next-nprogress-bar.git"
   },
   "bugs": {
-    "url": "https://github.com/Skyleen77/next-nprogress-bar/issues"
+    "url": "https://github.com/Fractal-Web/next-nprogress-bar/issues"
   },
-  "homepage": "https://github.com/Skyleen77/next-nprogress-bar#readme",
+  "homepage": "https://github.com/Fractal-Web/next-nprogress-bar#readme",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
